@@ -1,0 +1,31 @@
+C:\Users\Hamza\source\repos\E-Commerce Store\obj\Debug\net6.0\E-Commerce Store.csproj.AssemblyReference.cache
+C:\Users\Hamza\source\repos\E-Commerce Store\obj\Debug\net6.0\E-Commerce Store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hamza\source\repos\E-Commerce Store\obj\Debug\net6.0\E-Commerce Store.AssemblyInfoInputs.cache
+C:\Users\Hamza\source\repos\E-Commerce Store\obj\Debug\net6.0\E-Commerce Store.AssemblyInfo.cs
+C:\Users\Hamza\source\repos\E-Commerce Store\obj\Debug\net6.0\E-Commerce Store.csproj.CoreCompileInputs.cache
+C:\Users\Hamza\source\repos\E-Commerce Store\obj\Debug\net6.0\E-Commerce Store.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hamza\source\repos\E-Commerce Store\obj\Debug\net6.0\E-Commerce Store.RazorAssemblyInfo.cache
+C:\Users\Hamza\source\repos\E-Commerce Store\obj\Debug\net6.0\E-Commerce Store.RazorAssemblyInfo.cs
+C:\Users\Hamza\source\repos\E-Commerce Store\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Hamza\source\repos\E-Commerce Store\bin\Debug\net6.0\appsettings.json
+C:\Users\Hamza\source\repos\E-Commerce Store\bin\Debug\net6.0\E-Commerce Store.staticwebassets.runtime.json
+C:\Users\Hamza\source\repos\E-Commerce Store\bin\Debug\net6.0\E-Commerce Store.exe
+C:\Users\Hamza\source\repos\E-Commerce Store\bin\Debug\net6.0\E-Commerce Store.deps.json
+C:\Users\Hamza\source\repos\E-Commerce Store\bin\Debug\net6.0\E-Commerce Store.runtimeconfig.json
+C:\Users\Hamza\source\repos\E-Commerce Store\bin\Debug\net6.0\E-Commerce Store.dll
+C:\Users\Hamza\source\repos\E-Commerce Store\bin\Debug\net6.0\E-Commerce Store.pdb
+C:\Users\Hamza\source\repos\E-Commerce Store\obj\Debug\net6.0\staticwebassets\msbuild.E-Commerce Store.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hamza\source\repos\E-Commerce Store\obj\Debug\net6.0\staticwebassets\msbuild.build.E-Commerce Store.props
+C:\Users\Hamza\source\repos\E-Commerce Store\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.E-Commerce Store.props
+C:\Users\Hamza\source\repos\E-Commerce Store\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.E-Commerce Store.props
+C:\Users\Hamza\source\repos\E-Commerce Store\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Hamza\source\repos\E-Commerce Store\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Hamza\source\repos\E-Commerce Store\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Hamza\source\repos\E-Commerce Store\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Hamza\source\repos\E-Commerce Store\obj\Debug\net6.0\scopedcss\bundle\E-Commerce Store.styles.css
+C:\Users\Hamza\source\repos\E-Commerce Store\obj\Debug\net6.0\scopedcss\projectbundle\E-Commerce Store.bundle.scp.css
+C:\Users\Hamza\source\repos\E-Commerce Store\obj\Debug\net6.0\E-Commerce Store.dll
+C:\Users\Hamza\source\repos\E-Commerce Store\obj\Debug\net6.0\refint\E-Commerce Store.dll
+C:\Users\Hamza\source\repos\E-Commerce Store\obj\Debug\net6.0\E-Commerce Store.pdb
+C:\Users\Hamza\source\repos\E-Commerce Store\obj\Debug\net6.0\E-Commerce Store.genruntimeconfig.cache
+C:\Users\Hamza\source\repos\E-Commerce Store\obj\Debug\net6.0\ref\E-Commerce Store.dll
